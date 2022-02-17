@@ -9,7 +9,7 @@ import { LoaderService } from './services/loader.service';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Auth-Routing-Guards-CRUD Angular';
+  title = 'Auth-Routing-Guards-CRUD';
   isActive: any;
   EmployeeData: any;
 
